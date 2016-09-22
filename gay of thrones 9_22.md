@@ -43,19 +43,19 @@ In order for something to be considered a fair use, it actually has to have copy
 * **14 clips/different scenes from the "Game of Thrones" episode "Battle of the Bastards"**  
 
 | ![alt text](http://vignette2.wikia.nocookie.net/gameofthrones/images/d/d8/Game_of_Thrones_title_card.jpg/revision/latest?cb=20141113041117) |
-| --- |
+| --- |  
 
 | ![alt text](https://filmgrimoire.files.wordpress.com/2016/06/phgytd730g2qbwe.jpg) | ![alt text](http://media.vanityfair.com/photos/57675d6b0904a5835f0daf56/master/w_790,c_limit/game-of-thrones-episode-9-2.jpg) |
-| --- | --- |
+| --- | --- |  
 
 | ![alt text](http://static.srcdn.com/wp-content/uploads/game-thrones-season-6-battle-bastards-jon.jpg) |
-| --- |
+| --- |  
 
 | ![alt text](http://winteriscoming.net/wp-content/uploads/2016/06/20160602_ep609_Publicity_still_057.001602121-810x456.jpg) | ![alt text](http://cdn29.elitedaily.com/content/uploads/2016/06/21112727/rickon-stark-game-of-thrones-ramsay-bolton.jpg) |
-| --- | --- |
+| --- | --- |  
 
 | ![alt text](http://vignette1.wikia.nocookie.net/gameofthrones/images/d/df/Knights_of_the_Vale_S6E09_5.PNG/revision/latest?cb=20160826132900) |
-| --- |
+| --- |  
 
 * **Songs and soundbites**  
   * "Game of Thrones" [theme song](https://www.youtube.com/watch?v=s7L2PVdrb_8), along with a clip from the opening credits.
