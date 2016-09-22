@@ -70,7 +70,8 @@ In order for something to be considered a fair use, it actually has to have copy
 Although "Bad Little Butch Bottoms" contains 14 scenes from "Game of Thrones and five songs/soundbites from varying sources, this video is not an infringement of copyright.
 
 ##### Four Factors vs. "Gay of Thrones"
-First, it's important to compare the four factors of fair use and the video itself.
+First, it's important to compare the four factors of fair use and the video itself.  
+
 | Factor | "Gay of Thrones" |
 | :---: | :---: |
 | Purpose and character of the use. | "Gay of Thrones" is purely commentary of "Game of Thrones" episodes. Jonathon and his guest are narrating the plot with their own twists on characters and situations. They also scrutinze scenes and what is going on. There is a grey line when it comes to whether or not it's for nonprofit or commercial use since some YouTube videos and accounts earn money from the number of views and "likes" on a video. But there is no clear evidence of "Gay of Thrones" profiting from this video.
@@ -79,7 +80,8 @@ First, it's important to compare the four factors of fair use and the video itse
 | The effect of the use upon the potential market for or value of the copyrighted work | With this past season alone [averaging 23.3 million views across various platforms](http://variety.com/2016/tv/ratings/game-of-thrones-ratings-season-6-finale-record-1201805035/), it's safe to say that the 55,000 views on this video will hurt "Game of Thrones" or HBO. Besides, majority of the people who are watching this series are "Game of Thrones" fans themselves. I personally would watch each episode of "Game of Thrones" before I would watch the "Gay of Thrones" commentary. |
 
 ##### Two Categories vs. "Gay of Thrones"
-When analyzing a work for fair use, it will usually fall into either two categories.
+When analyzing a work for fair use, it will usually fall into either two categories.  
+
 | Category | "Gay of Thrones |
 | :---: | :---: |
 | Parody | Although Jonathon does call characters by different names and has a different way of explaining the plot of the episode, I would not consider "Gay of Thrones" to be a parody. The series does not ridicule "Game of Thrones" enough to be considered a parody.|
