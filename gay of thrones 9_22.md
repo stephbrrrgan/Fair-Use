@@ -24,7 +24,7 @@ The particular video that will be discussed is called ["Bad Little Butch Bottoms
 
 According to [17 U.S. Code § 107](https://www.law.cornell.edu/uscode/text/17/107), "the fair use of a copyrighted work, including such use by reproduction in copies or phonorecors or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching..., scholarship, or research, is not an infringement of copyright."
 ##### Four Factors
-There are four factors [17 U.S. Code § 107](https://www.law.cornell.edu/uscode/text/17/107) states when it comes considering if a work is a fair use or not:
+There are four factors when it comes to considering if a work is a fair use or not:
 * "the purpose and character of the use, including whether such us is of a commercial nature or is for nonprofit educational purposes"
 * "the nature of the copyrighted work"
 * "the amount and substantiality of the portion used in relation to the copyrighted work as a whole"
