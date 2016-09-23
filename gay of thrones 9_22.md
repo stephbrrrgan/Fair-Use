@@ -17,7 +17,8 @@ The particular video that will be discussed is called ["Bad Little Butch Bottoms
 
 **_There are obviously some spoilers if you intend on watching in the future. NSFW._**
 
-![alt text](https://i.ytimg.com/vi/C6l7FJqGEXM/maxresdefault.jpg)
+| ![alt text](https://i.ytimg.com/vi/C6l7FJqGEXM/maxresdefault.jpg) |
+| --- |
 
 ### Fair Use
 
