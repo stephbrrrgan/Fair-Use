@@ -86,4 +86,4 @@ When analyzing a work for fair use, it will usually fall into either two categor
 | Commentary and Criticism | "Gay of Thrones" definitely falls into this category. In order for Jonathon to commentate on the episode, he needs to show views the clips/scenes that he is talking about. This makes the use of the clips justifiable. |
 
 ### Conclusion
-With consideration of the four factors and definition of fair use, I believe it is apparent that "Gay of Thrones" is not an infringement on copyright.
+With consideration of the four factors and definition of fair use, I believe it is apparent that "Gay of Thrones" is not an infringement on copyright. (add more details of why it's not)
