@@ -72,26 +72,27 @@ In order for something to be considered a fair use, it actually has to have copy
   * Soundbite from the Beggin Strips [commercial](https://www.youtube.com/watch?v=AHgGo5dNgeg)  
 
 
+
 ### In Defense of "Gay of Thrones" 
 
-Although "Bad Little Butch Bottoms" contains 14 scenes from "Game of Thrones and five songs/soundbites from varying sources, this video is not an infringement of copyright.
+Although "Bad Little Butch Bottoms" contains 14 scenes from "Game of Thrones and five songs/soundbites from varying sources, this video is not an infringement of copyright. With the vast amount of "Game of Thrones" clips in this video, I'll be only covering the potential infrinement from the show.
 
 ##### Four Factors vs. "Gay of Thrones"
 First, it's important to compare the four factors of fair use and the video itself.  
 
 | Factor | "Gay of Thrones" |
 | :---: | :---: |
-| Purpose and character of the use. | "Gay of Thrones" is purely commentary of "Game of Thrones" episodes. Jonathon and his guest are narrating the plot with their own twists on characters and situations. They also scrutinze scenes and what is going on. There is a grey line when it comes to whether or not it's for nonprofit or commercial use since some YouTube videos and accounts earn money from the number of views and "likes" on a video. But there is no clear evidence of "Gay of Thrones" profiting from this video.
-| The nature of the copyrighted work. | The copyrighted work used in this video was obviously published, making it accessible to the public. But since it's fiction and in the arts category, it tends to be more difficult to consider it fair use.  |
-| The amount and substantiality of the portion used in relation to the copyrighted work as a whole. | 14 separate clips are used in "Bad Little Butch Bottoms." Although there is a large amount of "Game of Thrones" in this video, it doesn't matter because the commentary never delves into the true synopsis of each scene. According to Rich Stim's "[Measuring Fair Use: The Four Factors](http://fairuse.stanford.edu/overview/fair-use/four-factors/), "your copying will not be a fair use if the portion taken is the 'heart' of the work." "Gay of Thrones" is able to use the commentary made from Jonathon and his guest to alter the "heart of the work" in order to be considered a fair use. This video also contains music, but the audio clips are either remixed (like the opening) or very brief. |
-| The effect of the use upon the potential market for or value of the copyrighted work | With this past season alone [averaging 23.3 million views across various platforms](http://variety.com/2016/tv/ratings/game-of-thrones-ratings-season-6-finale-record-1201805035/), it's safe to say that the 55,000 views on this video will hurt "Game of Thrones" or HBO. Besides, majority of the people who are watching this series are "Game of Thrones" fans themselves. I personally would watch each episode of "Game of Thrones" before I would watch the "Gay of Thrones" commentary. |
+| Purpose and character of the use. | "Gay of Thrones" is purely commentary of "Game of Thrones" episodes. Jonathon and his guest are narrating the plot with their own twists on characters and situations. They also scrutinze scenes and what is going on. (FunnyorDie is purely commercial|
+| The nature of the copyrighted work. | The copyrighted work used in this video was obviously published, making it accessible to the public. But since it's fiction and in the arts category, it tends to be more difficult to consider it fair use. (GOT is a dramatic series whereas GAY is a comedic commentary series) |
+| The amount and substantiality of the portion used in relation to the copyrighted work as a whole. | 14 separate clips are used in "Bad Little Butch Bottoms." Although there is a large amount of "Game of Thrones" in this video, it doesn't matter because the commentary never delves into the true synopsis of each scene. According to Rich Stim's "[Measuring Fair Use: The Four Factors](http://fairuse.stanford.edu/overview/fair-use/four-factors/), "your copying will not be a fair use if the portion taken is the 'heart' of the work." "Gay of Thrones" is able to use the commentary made from Jonathon and his guest to alter the "heart of the work" in order to be considered a fair use. This video also contains music, but the audio clips are either remixed (like the opening) or very brief. (the heart of the work is the most memorable part) |
+| The effect of the use upon the potential market for or value of the copyrighted work | With this past season alone [averaging 23.3 million views across various platforms](http://variety.com/2016/tv/ratings/game-of-thrones-ratings-season-6-finale-record-1201805035/), it's safe to say that the 55,000 views on this video will hurt "Game of Thrones" or HBO. Besides, majority of the people who are watching this series are "Game of Thrones" fans themselves. I personally would watch each episode of "Game of Thrones" before I would watch the "Gay of Thrones" commentary.(wouldn't watch an ep of Gay or Game. It is possible however the Gay can market off of this, but I think once that happens, it'll be shut down) |
 
 ##### Two Categories vs. "Gay of Thrones"
 When analyzing a work for fair use, it will usually fall into either two categories.  
 
 | Category | "Gay of Thrones |
 | :---: | :---: |
-| Parody | Although Jonathon does call characters by different names and has a different way of explaining the plot of the episode, I would not consider "Gay of Thrones" to be a parody. The series does not ridicule "Game of Thrones" enough to be considered a parody.|
+| Parody | Although Jonathon does call characters by different names and has a different way of explaining the plot of the episode, I would not consider "Gay of Thrones" to be a parody. The series does not ridicule "Game of Thrones" enough to be considered a parody.(it's a parody)|
 | Commentary and Criticism | "Gay of Thrones" definitely falls into this category. In order for Jonathon to commentate on the episode, he needs to show views the clips/scenes that he is talking about. This makes the use of the clips justifiable. |
 
 ### Conclusion
