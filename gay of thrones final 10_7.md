@@ -71,24 +71,24 @@ In order for something to be considered a fair use, it actually has to have copy
   * "[I Knew You Were Waiting (For Me)](https://www.youtube.com/watch?v=ooYtCvEdoNY)" by Aretha Franklin and George Michael
   * Soundbite from the Beggin Strips [commercial](https://www.youtube.com/watch?v=AHgGo5dNgeg)  
 
-
+For the purpose of this arguement, we will be only looking at the potential copyright infringement of the clips used from "Game of Thrones." But I believe it's still relevant to show the other material being used in "Gay of Thrones."
 
 ### In Defense of "Gay of Thrones" 
 
-Although "Bad Little Butch Bottoms" contains 14 scenes from "Game of Thrones and five songs/soundbites from varying sources, this video is not an infringement of copyright. With the vast amount of "Game of Thrones" clips in this video, I'll be only covering the potential infrinement from the show.
+Although "Bad Little Butch Bottoms" contains 14 scenes from "Game of Thrones and five songs/soundbites from varying sources, this video is not an infringement of copyright. With the vast amount of "Game of Thrones" clips in this video, this will be the main focus fhwen considering copyright infringement.
 
 ##### Four Factors vs. "Gay of Thrones"
 First, it's important to compare the four factors of fair use and the video itself.  
 
 | Factor | "Gay of Thrones" |
 | :---: | :---: |
-| Purpose and character of the use. | "Gay of Thrones" is purely commentary of "Game of Thrones" episodes. Jonathon and his guest are narrating the plot with their own twists on characters and situations. They also scrutinze scenes and what is going on. (FunnyorDie is purely commercial|
-| The nature of the copyrighted work. | The copyrighted work used in this video was obviously published, making it accessible to the public. But since it's fiction and in the arts category, it tends to be more difficult to consider it fair use. (GOT is a dramatic series whereas GAY is a comedic commentary series) |
+| Purpose and character of the use. | "Gay of Thrones" is able to transform "Game of Thrones" into a its own little show. "Gay of Thrones" is not only a commentary of "Game of Thrones" episodes, but it also parodizes the plot and characters from the show. Jonathon and his guest narrate the plot while creating their own twists on characters and situations. They also scrutinize scenes and the judge the characters' actions from each episode.|
+| The nature of the copyrighted work. | The copyrighted work used in this video was obviously published, making it accessible to the public. But since it's fiction and in the arts category, it tends to be more difficult to consider it fair use. "Game of Thrones" is a dramatic, fantasy series whereas "Gay of Thrones" is a comedic commentary mini-series. |
 | The amount and substantiality of the portion used in relation to the copyrighted work as a whole. | 14 separate clips are used in "Bad Little Butch Bottoms." Although there is a large amount of "Game of Thrones" in this video, it doesn't matter because the commentary never delves into the true synopsis of each scene. According to Rich Stim's "[Measuring Fair Use: The Four Factors](http://fairuse.stanford.edu/overview/fair-use/four-factors/), "your copying will not be a fair use if the portion taken is the 'heart' of the work." "Gay of Thrones" is able to use the commentary made from Jonathon and his guest to alter the "heart of the work" in order to be considered a fair use. This video also contains music, but the audio clips are either remixed (like the opening) or very brief. (the heart of the work is the most memorable part) |
 | The effect of the use upon the potential market for or value of the copyrighted work | With this past season alone [averaging 23.3 million views across various platforms](http://variety.com/2016/tv/ratings/game-of-thrones-ratings-season-6-finale-record-1201805035/), it's safe to say that the 55,000 views on this video will hurt "Game of Thrones" or HBO. Besides, majority of the people who are watching this series are "Game of Thrones" fans themselves. I personally would watch each episode of "Game of Thrones" before I would watch the "Gay of Thrones" commentary.(wouldn't watch an ep of Gay or Game. It is possible however the Gay can market off of this, but I think once that happens, it'll be shut down) |
 
 ##### Two Categories vs. "Gay of Thrones"
-When analyzing a work for fair use, it will usually fall into either two categories.  
+When analyzing a work for fair use, it will usually fall into either two categories, or both in the case of "Gay of Thrones."  
 
 | Category | "Gay of Thrones |
 | :---: | :---: |
