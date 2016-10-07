@@ -6,7 +6,7 @@ _By Stephanie Bergan_
 ### What is "Gay of Thrones"?
 ["Gay of Thrones"](https://www.youtube.com/watch?v=Q8PD_GvWrT0&list=PL77kq7xMnzVMN-4l8bh2OUGUofydgxU-q) is a web series on FunnyorDie where a hairdresser, Jonathon, recaps ["Game of Thrones"](http://www.hbo.com/game-of-thrones) episodes with a client, who is usually another fellow comedian or actor, every week throughout a season. The storytelling includes different nicknames for each character and over-the-top synopsises, making it a hilarious and raunchy YouTube series.  
 
-Each video from the series contains clips from the show "Game of Thrones," sound bites from other shows and copyrighted music. Although these videos have all of these elements, "Gay of Thrones" is using them correctly according to the Fair Use Act.
+Each video from the series contains clips from the show "Game of Thrones," sound bites from other shows and copyrighted music. Although these videos have all of these elements, "Gay of Thrones" is using them correctly according to the rules of fair use.
 
 | ![alt text](https://i.ytimg.com/vi/MgebzaD2wOo/maxresdefault.jpg) | ![alt text](https://i.ytimg.com/vi/mTXQ8u_Jr2c/maxresdefault.jpg) |
 | --- | --- |
@@ -22,7 +22,7 @@ The particular video that will be discussed is called ["Bad Little Butch Bottoms
 
 ### Fair Use
 
-According to [17 U.S. Code § 107](https://www.law.cornell.edu/uscode/text/17/107), "the fair use of a copyrighted work, including such use by reproduction in copies or phonorecors or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching..., scholarship, or research, is not an infringement of copyright."
+According to [17 U.S. Code § 107](https://www.law.cornell.edu/uscode/text/17/107), "the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching..., scholarship, or research, is not an infringement of copyright."
 ##### Four Factors
 There are four factors when it comes to considering if a work is a fair use or not:
 * "the purpose and character of the use, including whether such us is of a commercial nature or is for nonprofit educational purposes"
