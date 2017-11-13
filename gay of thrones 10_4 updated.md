@@ -56,10 +56,6 @@ In order for something to be considered a fair use, it actually has to have copy
 | --- |  
 
 
-| ![alt text](http://winteriscoming.net/wp-content/uploads/2016/06/20160602_ep609_Publicity_still_057.001602121-810x456.jpg) | ![alt text](http://cdn29.elitedaily.com/content/uploads/2016/06/21112727/rickon-stark-game-of-thrones-ramsay-bolton.jpg) |
-| --- | --- |    
-
-
 | ![alt text](http://vignette1.wikia.nocookie.net/gameofthrones/images/d/df/Knights_of_the_Vale_S6E09_5.PNG/revision/latest?cb=20160826132900) |
 | --- |    
 
