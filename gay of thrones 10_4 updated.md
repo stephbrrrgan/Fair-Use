@@ -52,10 +52,6 @@ In order for something to be considered a fair use, it actually has to have copy
 | --- | --- |    
 
 
-| ![alt text](http://static.srcdn.com/wp-content/uploads/game-thrones-season-6-battle-bastards-jon.jpg) |
-| --- |  
-
-
 | ![alt text](http://vignette1.wikia.nocookie.net/gameofthrones/images/d/df/Knights_of_the_Vale_S6E09_5.PNG/revision/latest?cb=20160826132900) |
 | --- |    
 
